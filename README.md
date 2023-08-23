@@ -8,8 +8,8 @@ The phrases include:
 +The **ability** or **special move** that the beyblade is able to carry out.
 
 ## Technologies
-+**Javascript**
-+**Visual Studio Code**
++ **Javascript**
++ **Visual Studio Code**
 
   This is the **code editor** that i'd used to develop my code.
 
