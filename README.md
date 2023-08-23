@@ -3,9 +3,9 @@
 ## Intended Use
 This project aims to generate a random sentence related to a show from my childhood called Beyblade through the use of phrases.
 The phrases include:
-+The **name** of a random character from the show.
-+The **beyblade** to be used by said character.
-+The **ability** or **special move** that the beyblade is able to carry out.
++ The **name** of a random character from the show.
++ The **beyblade** to be used by said character.
++ The **ability** or **special move** that the beyblade is able to carry out.
 
 ## Technologies
 + **Javascript**
